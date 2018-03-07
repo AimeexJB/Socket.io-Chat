@@ -2,7 +2,7 @@
 
 This is the Git Repository for my Computer Networks assignment.
 
-##How to Run
+## How to Run
 
 - Clone the repository by running this in the command line:
 
